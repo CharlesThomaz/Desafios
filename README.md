@@ -1,5 +1,9 @@
 # Desafios
 POO - Desafio
+
+Foram feitos alguns desafios nessa pasta e entre eles segue um exemplo abaixo:
+
+
 Modelagem e Diagramação de um Componente iPhone
 Neste desafio, sou responsável por modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
